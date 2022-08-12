@@ -6,11 +6,11 @@ const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "constants/blend_mode.js"));
 const description =
   "Remember to smile everyday, don't worry wear a Happy Face!";
-const baseUri = "ipfs://NewUriToReplace";
+const baseUri = "ipfs://NewUriToReplace"; //Use pinata.cloud or alts
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 5,
+    growEditionSizeTo: 11,
     layersOrder: [
       { name: "Background" },
       { name: "Face" },
