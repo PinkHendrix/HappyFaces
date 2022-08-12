@@ -5,7 +5,7 @@ const isLocal = typeof process.pkg === "undefined";
 const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "constants/blend_mode.js"));
 const description =
-  "This is the description of your NFT project, remember to replace this";
+  "Remember to smile everyday, don't worry wear a Happy Face!";
 const baseUri = "ipfs://NewUriToReplace";
 
 const layerConfigurations = [
