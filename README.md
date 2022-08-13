@@ -8,9 +8,9 @@ To find out more please visit his sites:
 
 # HashLips Art Engine Cloned for the Happy Face Project🔥
 
-#![](Happy_Faces_ArtEngine/build/images/9.png)
+#![Be Happy](./Happy_Faces_ArtEngine/build/images/9.png)
 
-##![](Happy_Faces_ArtEngine/build/preview.png)
+##![More the Merrier](./Happy_Faces_ArtEngine/build/preview.png)
 
 Create unique generative art by using the canvas api and node js. Before you use the generation engine, make sure you have node.js installed.
 
