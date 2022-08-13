@@ -1,0 +1,31 @@
+{
+  "dna": "8a28b95ec6080c9d15aea5ec7b1a831c019a20c6",
+  "name": "#14",
+  "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+  "image": "ipfs://NewUriToReplace/14.png",
+  "edition": 14,
+  "date": 1660410474764,
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "FONDOS 003"
+    },
+    {
+      "trait_type": "Face",
+      "value": "CARITAS 008"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "OJOS 004"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "PEINADOS 007"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "BOCAS 001"
+    }
+  ],
+  "compiler": "HashLips Art Engine"
+}

@@ -1,0 +1,467 @@
+[
+  {
+    "dna": "0d77cf8ca1331e55991e0694b9eaf66633467e69",
+    "name": "#1",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/1.png",
+    "edition": 1,
+    "date": 1660410473387,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 006"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 016"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 001"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 014"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 007"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d6d82ee7091cb9791c6e4cfeed55dcfb212cd044",
+    "name": "#2",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/2.png",
+    "edition": 2,
+    "date": 1660410473500,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 007"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 009"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 009"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 002"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 007"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d03e7a6976ffa66d6019d4f0a3a8f4d027dc03fb",
+    "name": "#3",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/3.png",
+    "edition": 3,
+    "date": 1660410473605,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 005"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 008"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 004"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 007"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 001"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "0329ed2ead6a2e10bab8f4320997d4d68db7f817",
+    "name": "#4",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/4.png",
+    "edition": 4,
+    "date": 1660410473707,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 008"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 013"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 004"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 012"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 002"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "4fcc77d885fbc225d3992017b889f17f39ea8495",
+    "name": "#5",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/5.png",
+    "edition": 5,
+    "date": 1660410473802,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 002"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 012"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 006"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 008"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 006"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "49b71bb5a1276e4ae566e3428a2c4dd23eb567e3",
+    "name": "#6",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/6.png",
+    "edition": 6,
+    "date": 1660410473913,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 007"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 015"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 002"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 005"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 008"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d7a09f7371c3195370295b882e94e649daecd507",
+    "name": "#7",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/7.png",
+    "edition": 7,
+    "date": 1660410474019,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 006"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 005"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 003"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 006"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 002"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "96d88c52bbaed1a9d7b0569301c2d80333ec553d",
+    "name": "#8",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/8.png",
+    "edition": 8,
+    "date": 1660410474122,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 004"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 007"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 006"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 009"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 009"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "d117faab434c6724ce6e6cef9d2d205d524cbe7e",
+    "name": "#9",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/9.png",
+    "edition": 9,
+    "date": 1660410474229,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 009"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 008"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 010"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 014"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 004"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "672fbc1ba3e5841050f8eb547c342c6b71fa9f1d",
+    "name": "#10",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/10.png",
+    "edition": 10,
+    "date": 1660410474339,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 008"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 010"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 003"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 014"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 006"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "908845f96db24ab554d57d3570bb1b28186a6927",
+    "name": "#11",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/11.png",
+    "edition": 11,
+    "date": 1660410474440,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 007"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 001"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 009"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 010"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 004"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "9c9434e0fbd76a278881e6ee58ccc6e04dfc5f32",
+    "name": "#12",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/12.png",
+    "edition": 12,
+    "date": 1660410474549,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 005"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 006"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 004"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 006"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 006"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "3d8352e881615825f15b539c7f778341ad78413b",
+    "name": "#13",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/13.png",
+    "edition": 13,
+    "date": 1660410474653,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 009"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 010"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 005"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 012"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 007"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "8a28b95ec6080c9d15aea5ec7b1a831c019a20c6",
+    "name": "#14",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/14.png",
+    "edition": 14,
+    "date": 1660410474764,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 003"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 008"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 004"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 007"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 001"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  },
+  {
+    "dna": "fbcb80e2eea057d60b6a6e3f425e251428a33dcc",
+    "name": "#15",
+    "description": "Remember to smile everyday, don't worry wear a Happy Face!",
+    "image": "ipfs://NewUriToReplace/15.png",
+    "edition": 15,
+    "date": 1660410474863,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "FONDOS 006"
+      },
+      {
+        "trait_type": "Face",
+        "value": "CARITAS 011"
+      },
+      {
+        "trait_type": "Eyes",
+        "value": "OJOS 003"
+      },
+      {
+        "trait_type": "Hair",
+        "value": "PEINADOS 010"
+      },
+      {
+        "trait_type": "Mouth",
+        "value": "BOCAS 005"
+      }
+    ],
+    "compiler": "HashLips Art Engine"
+  }
+]
