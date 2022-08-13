@@ -10,7 +10,7 @@ const baseUri = "ipfs://NewUriToReplace"; //Use pinata.cloud or alts
 
 const layerConfigurations = [
   {
-    growEditionSizeTo: 11,
+    growEditionSizeTo: 15,
     layersOrder: [
       { name: "Background" },
       { name: "Face" },
